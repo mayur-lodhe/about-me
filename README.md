@@ -1,38 +1,60 @@
+# 👋 Hello, I’m Mayur Lodhe
 
-👋 Hello, I am Mayur Lodhe
-🚀 Aspiring Cloud & DevOps Engineer | Multicloud | Automation | AI & Cybersecurity Enthusiast
-________________________________________
-🧭 About Me
-I am deeply passionate about designing, automating, and securing modern cloud infrastructures. 
-My current focus lies in mastering Cloud Computing, DevOps practices, and exploring the integration of Artificial Intelligence and Cybersecurity within automated systems.
-I aim to build solutions that are resilient, scalable, and secure, with a commitment to continuous learning and innovation.
-________________________________________
-🛠️ Technical Skills
-Cloud & DevOps:
+🚀 **Aspiring Cloud & DevOps Engineer**  
+🌎 Multicloud | Automation | AI & Cybersecurity Enthusiast
+
+---
+
+## 🌟 About Me
+
+I’m deeply passionate about designing, automating, and securing modern cloud infrastructures.  
+Currently, I focus on mastering Cloud Computing, DevOps, and integrating AI and cybersecurity into automated systems. My goal is to build resilient, scalable, and secure solutions while continually learning and innovating.
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Cloud & DevOps:**  
 ☁️ AWS | Azure | GCP | Linux | Shell Scripting | Networking
-Automation & CI/CD:
-⚙️ Git | GitHub | GitHub Actions | Jenkins | CI/CD Pipelines
-Containers & Orchestration:
-🐳 Docker | ☸️ Kubernetes
-Infrastructure as Code (IaC):
-🏗️ Terraform | Ansible
-Monitoring & Observability:
-📊 Prometheus | Grafana
-Security & AI Interests:
-🧠 AI-driven Automation | 🔐 Cloud Security | Threat Monitoring
-________________________________________
-🌱 Currently Working On
-•	Implementing automated multicloud deployments
-•	Building CI/CD pipelines for real-world projects
-•	Securing Kubernetes clusters with best practices
-•	Integrating AI insights into DevOps workflows
-________________________________________
-📈 Goals
-To become a proficient Cloud & DevOps Engineer capable of architecting intelligent, automated, and secure infrastructure systems 
-that align with industry best practices and innovation standards.
-________________________________________
-🤝 Let’s Connect
-📫 LinkedIn -                  • GitHub -                         • Email -
-🌍 “Automate everything. Secure everything. Scale infinitely.”
-________________________________________
 
+**Automation & CI/CD:**  
+⚙️ Git | GitHub Actions | Jenkins | CI/CD Pipelines
+
+**Containers & Orchestration:**  
+🐳 Docker | ☸️ Kubernetes
+
+**Infrastructure as Code (IaC):**  
+🏗️ Terraform | Ansible
+
+**Monitoring & Observability:**  
+📊 Prometheus | Grafana
+
+**Security & AI:**  
+🧠 AI-driven Automation | 🔐 Cloud Security | Threat Monitoring
+
+---
+
+## 🌱 What I’m Working On
+
+- Implementing automated multi-cloud deployments  
+- Building CI/CD pipelines for real-world projects  
+- Securing Kubernetes clusters with best practices  
+- Integrating AI insights into DevOps workflows  
+
+---
+
+## 📈 My Goals
+
+To become a proficient Cloud & DevOps Engineer, architecting intelligent and secure infrastructure systems aligned with industry best practices and innovation standards.
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/mayur-lodhe)  
+📧 Email: [mayurlodhe17@email.com](mailto:mayurlodhe17@email.com)
+
+---
+
+🌍 _“Automate everything. Secure everything. Scale infinitely.”_
