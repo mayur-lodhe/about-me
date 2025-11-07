@@ -51,9 +51,9 @@ To become a proficient Cloud & DevOps Engineer, architecting intelligent and sec
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mayur-lodhe-5a2a4b346)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/mayur-lodhe)  
-📧 Email: [mayurlodhe17@email.com](mailto:mayurlodhe17@email.com)
+📧 Email: [mayurlodhe17@gmail.com](mailto:mayurlodhe17@gmail.com)
 
 ---
 
